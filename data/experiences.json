@@ -1,0 +1,23 @@
+[
+    {
+        "image": "/company_1.png",
+        "company": "Command R",
+        "role": "Software Developer",
+        "description": "Spearheading the development of an enterprise-level automation tool, optimizing performance by implementing advanced algorithms and streamlining codebase efficiency.",
+        "dates": "2023 - Present"
+    },
+    {
+        "image": "/company_2.png",
+        "company": "Circooles",
+        "role": "Software Developer",
+        "description": "Spearheading the development of an enterprise-level automation tool, optimizing performance by implementing advanced algorithms and streamlining codebase efficiency.",
+        "dates": "2022 - 2023"
+    },
+    {
+        "image": "/company_3.png",
+        "company": "Catalog io",
+        "role": "Junior Software Developer",
+        "description": "Spearheading the development of an enterprise-level automation tool, optimizing performance by implementing advanced algorithms and streamlining codebase efficiency.",
+        "dates": "2021 - 2022"
+    }
+]

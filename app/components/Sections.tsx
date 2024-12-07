@@ -3,6 +3,7 @@ import Hero from "./Hero/Hero";
 import Skills from "./Skills/Skills";
 import Projects from "./Projects/Projects";
 import Testimonials from "./Testimonials.tsx/Testimonials";
+import Experiences from "./Experiences/Experiences";
 
 const Sections = () => {
   return (
@@ -11,6 +12,7 @@ const Sections = () => {
       <Skills />
       <Projects />
       <Testimonials />
+      <Experiences />
     </main>
   );
 };
