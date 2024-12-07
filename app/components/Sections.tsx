@@ -4,6 +4,7 @@ import Skills from "./Skills/Skills";
 import Projects from "./Projects/Projects";
 import Testimonials from "./Testimonials.tsx/Testimonials";
 import Experiences from "./Experiences/Experiences";
+import Contact from "./Contact";
 
 const Sections = () => {
   return (
@@ -13,6 +14,7 @@ const Sections = () => {
       <Projects />
       <Testimonials />
       <Experiences />
+      <Contact />
     </main>
   );
 };
