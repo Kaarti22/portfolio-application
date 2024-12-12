@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 interface SkillProps {
   name: string;
@@ -8,7 +9,7 @@ interface SkillProps {
 const Skill: React.FC<SkillProps> = ({ name, icon }) => {
   return (
     <div className="relative flex gap-2 p-2 border-primary border rounded-lg h-[46px]">
-      <img src={icon} alt={`${name} icon`} />
+      <Image src={icon} alt={`${name}`} width={25} height={20}/>
       <p className="text-lg">{name}</p>
     </div>
   );

@@ -1,34 +1,78 @@
 [
   {
+    "name": "C++",
+    "icon": "/c++_icon.png"
+  },
+  {
+    "name": "Python",
+    "icon": "/python_icon.png"
+  },
+  {
+    "name": "C",
+    "icon": "/c_icon.png"
+  },
+  {
     "name": "Java",
     "icon": "/java_icon.png"
-  },
-  {
-    "name": "TypeScript",
-    "icon": "/ts_icon.png"
-  },
-  {
-    "name": "Kotlin",
-    "icon": "/kotlin_icon.png"
-  },
-  {
-    "name": "Golang",
-    "icon": "/go_icon.png"
-  },
-  {
-    "name": "CSS",
-    "icon": "/css_icon.png"
   },
   {
     "name": "JavaScript",
     "icon": "/js_icon.png"
   },
   {
-    "name": "HTML",
-    "icon": "/html_icon.png"
+    "name": "TypeScript",
+    "icon": "/ts_icon.png"
+  },
+  {
+    "name": "SQL",
+    "icon": "/sql_icon.png"
+  },
+  {
+    "name": "Node JS",
+    "icon": "/node.js_icon.png"
+  },
+  {
+    "name": "Django",
+    "icon": "/django_icon.png"
   },
   {
     "name": "React JS",
     "icon": "/react_icon.png"
+  },
+  {
+    "name": "Redux Toolkit",
+    "icon": "/redux_icon.png"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "/tailwind-css.svg"
+  },
+  {
+    "name": "HTML",
+    "icon": "/html.svg"
+  },
+  {
+    "name": "Git",
+    "icon": "/git_icon.png"
+  },
+  {
+    "name": "Github",
+    "icon": "/github_icon.png"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "/mongodb_icon.png"
+  },
+  {
+    "name": "MySQL",
+    "icon": "/mysql_icon.png"
+  },
+  {
+    "name": "Firebase",
+    "icon": "/firebase_icon.png"
+  },
+  {
+    "name": "Postgre SQL",
+    "icon": "/postgresql_icon.png"
   }
 ]
