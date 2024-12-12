@@ -26,32 +26,27 @@ const Project: React.FC<ProjectProps> = ({
         alt={`Thumbnail for ${title}`}
         width={392}
         height={230}
-        className="w-full h-[230px] object-cover"
+        className="w-full h-[230px] object-cover rounded-lg"
       />
       <div className="flex flex-col gap-[11px]">
         <div className="flex justify-between items-center">
           <h3 className="font-semibold text-xl md:text-[22px]">{title}</h3>
           <a
             href={link.url}
-            className="flex px-[5px] py-[3px] gap-1 bg-[#b9b9b9] bg-opacity-[24%] rounded text-[14px]"
+            className="flex items-center justify-center px-[5px] py-[3px] gap-1 bg-[#b9b9b9] bg-opacity-[24%] rounded text-[14px]"
           >
-            <span className="hidden md:block">{link.label}</span>
-            <img
-              src="/link_arrow.svg"
-              alt="Link arrow"
-              className="block dark:hidden"
-            />
-            <img
-              src="/link_arrow_dark.svg"
-              alt="Link arrow"
-              className="hidden dark:block"
-            />
+            <span>{link.label}</span>
           </a>
         </div>
         <p className="line-clamp-2 text-sm md:text-base">{description}</p>
         <div className="flex flex-row gap-[11px]">
           {languageIcons.map((icon, iconId) => (
-            <img src={icon} alt="Language icon" key={iconId} />
+            <img
+              src={icon}
+              alt="Language icon"
+              key={iconId}
+              className="h-7 w-7"
+            />
           ))}
         </div>
       </div>

@@ -1,42 +1,42 @@
 [
   {
-    "thumbnail": "/weather_thumbnail.png",
-    "title": "Weather Dashboard",
+    "thumbnail": "/admin_panel_template.png",
+    "title": "Fusion - An Intranet Institute's ERP Portal",
     "link": {
-      "label": "Weather.dash",
-      "url": "https://www.example.com"
+      "label": "Code",
+      "url": "https://github.com/Kaarti22/Fusion_System_Administrator"
     },
-    "description": "Developed a weather dashboard that fetches real-time data from a public API.",
-    "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png"]
+    "description": "Developed features for the system admin efficiently add new users, bulk import students using CSV files and reset user passwords efficiently. Also, devised a role-based access control for creating, managing, and assigning roles, with customizable module permissions.",
+    "languageIcons": ["/django_icon.png", "react_icon.png", "postgresql_icon.png"]
   },
   {
-    "thumbnail": "/ecommerce_thumbnail.png",
-    "title": "E-commerce Platform",
+    "thumbnail": "/ai_mock_interviewer_template.png",
+    "title": "AI Mock Interviewer - Practice for your upcoming interviews",
     "link": {
-      "label": "myecommerce.com",
-      "url": "https://www.example.com"
+      "label": "Code",
+      "url": "https://github.com/Kaarti22/AI-Mock-Interviewer"
     },
-    "description": "Developed a weather dashboard that fetches real-time data from a public API.",
-    "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png"]
+    "description": "Designed and built a full-stack AI-driven tool that generates 10 interview questions using Gemini AI and analyzes user responses, incorporated speech-to-text functionality and video recording to simulate realistic interview environments.",
+    "languageIcons": ["/node.js_icon.png", "postgresql_icon.png"]
   },
   {
-    "thumbnail": "/weather_thumbnail.png",
-    "title": "Weather Dashboard",
+    "thumbnail": "/food_ordering_website_template.png",
+    "title": "FoodByte - An online food ordering website",
     "link": {
-      "label": "Weather.dash",
-      "url": "https://www.example.com"
+      "label": "Code",
+      "url": "https://github.com/Kaarti22/FoodByte"
     },
-    "description": "Developed a weather dashboard that fetches real-time data from a public API.",
-    "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png"]
+    "description": "Constructed a 3-tier online food ordering platform enabling users place orders, restaurant owners to manage menus, and admins to oversee operations, integrated Google OAuth for authentication and Stripe for payment processing.",
+    "languageIcons": ["/node.js_icon.png", "mongodb_icon.png", "tailwind-css.svg"]
   },
   {
-    "thumbnail": "/weather_thumbnail.png",
-    "title": "Weather Dashboard",
+    "thumbnail": "/neural_network.png",
+    "title": "Handwritten Digit Recognition using Neural Network",
     "link": {
-      "label": "Weather.dash",
-      "url": "https://www.example.com"
+      "label": "Code",
+      "url": "https://github.com/Kaarti22/Handwritten-Digit-Recognition"
     },
-    "description": "Developed a weather dashboard that fetches real-time data from a public API.",
-    "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png"]
+    "description": "Handwritten digit recognition using MNIST dataset is a major project made with the help of Neural Network. It basically detects the scanned images of handwritten digits. We have taken this a step further where our handwritten digit recognition system not only detects scanned images of handwritten digits but also allows writing digits on the screen with the help of an integrated GUI for recognition.",
+    "languageIcons": ["/python_icon.png"]
   }
 ]
