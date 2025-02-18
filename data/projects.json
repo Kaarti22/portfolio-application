@@ -33,8 +33,8 @@
     "thumbnail": "/neural_network.png",
     "title": "Handwritten Digit Recognition using Neural Network",
     "link": {
-      "label": "Code",
-      "url": "https://github.com/Kaarti22/Handwritten-Digit-Recognition"
+      "label": "Website",
+      "url": "https://kaarti22-mnist-handwritten-digit-classification-app-qygxii.streamlit.app/"
     },
     "description": "Handwritten digit recognition using MNIST dataset is a major project made with the help of Neural Network. It basically detects the scanned images of handwritten digits. We have taken this a step further where our handwritten digit recognition system not only detects scanned images of handwritten digits but also allows writing digits on the screen with the help of an integrated GUI for recognition.",
     "languageIcons": ["/python_icon.png"]
