@@ -3,6 +3,7 @@
 import cn from "classnames";
 import { useCallback, useEffect, useState } from "react";
 import NavItem from "./NavItem";
+import Image from "next/image";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -29,15 +30,19 @@ const Navbar = () => {
         className="bg-background card-shadow p-3 md:hidden rounded"
         onClick={() => setIsOpen((prevVal) => !prevVal)}
       >
-        <img
+        <Image
+          src="/menu_icon_light.svg"
+          alt="Menu Icon"
+          width={20}
+          height={20}
           className="block dark:hidden"
-          src="./menu_icon_light.svg"
-          alt="Menu Icon"
         />
-        <img
-          className="hiddeb dark:block"
-          src="./menu_icon_dark.svg"
+        <Image
+          src="/menu_icon_dark.svg"
           alt="Menu Icon"
+          width={20}
+          height={20}
+          className="hidden dark:block"
         />
       </button>
       <nav

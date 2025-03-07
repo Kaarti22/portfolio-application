@@ -41,11 +41,12 @@ const Project: React.FC<ProjectProps> = ({
         <p className="line-clamp-2 text-sm md:text-base">{description}</p>
         <div className="flex flex-row gap-[11px]">
           {languageIcons.map((icon, iconId) => (
-            <img
+            <Image
+              key={iconId}
               src={icon}
               alt="Language icon"
-              key={iconId}
-              className="h-7 w-7"
+              height={25}
+              width={25}
             />
           ))}
         </div>

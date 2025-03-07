@@ -7,21 +7,26 @@ const Hero = () => {
       <div className="flex flex-col gap-[13px] items-center md:gap-[34px] md:my-[58px] md:items-start">
         <h1 className="text-2xl/1 text-center font-semibold block md:text-[40px] md:text-start md:inline">
           <span className="-ml-3"></span>
-          Hello I'm Kartikeya, I'm an{" "}
+          Hello I&apos;m Kartikeya, I&apos;m an{" "}
           <span className="block text-[27px] highlight mt-2 md:text-[45px] md:inline md:mt-0">
             AI Developer
           </span>
         </h1>
         <p className="text-center text-sm mx-6 md:text-[22px] md:text-start md:mx-0">
-          I'm obsessed with code and helping startups created unique and helpful
-          products.
+          I&apos;m a Competitive Programmer as well as an AI Engineer building
+          innovative solutions to real-world problems using AI.
         </p>
         <a
           href="mailto:kaartimondi@gmail.com"
           className="self-center bg-primary text-white p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl/6"
         >
-          Let's Connect
-          <img src="/arrow_right_icon.svg" alt="Arrow Right Icon" />
+          Let&apos;s Connect
+          <Image
+            src={"/arrow_right_icon.svg"}
+            alt="Arrow Right Icon"
+            width={5}
+            height={5}
+          />
         </a>
       </div>
       <div>

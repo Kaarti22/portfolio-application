@@ -56,14 +56,14 @@ const TopBackground = () => {
           </div>
         </div>
       </div>
-      <img
+      <Image
         src="/top_highlight.svg"
         alt="Top dark mode background highlight"
         width={809}
         height={877}
         className="absolute top-[-515px] hidden dark:md:block left-1/2 -translate-x-1/2"
       />
-      <img
+      <Image
         src="/top_highlight_mobile.svg"
         alt="Top dark mode background highlight for mobile"
         width={429}

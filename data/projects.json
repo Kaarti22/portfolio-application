@@ -7,7 +7,7 @@
       "url": "https://imdb-reviews-sentiment-analysis-nine.vercel.app/"
     },
     "description": "An AI-powered web application that performs sentiment analysis on IMDB movie reviews. This project utilizes LSTM (Long Short-Term Memory) models for text classification, with a FastAPI backend for predictions and a Next.js frontend for an interactive user interface.",
-    "languageIcons": ["/python_icon.png", "react_icon.png", "tailwind-css.svg"]
+    "languageIcons": ["/python_icon.png", "/react_icon.png", "/tailwind-css.svg"]
   },
   {
     "thumbnail": "/admin_panel_template.png",
@@ -17,7 +17,7 @@
       "url": "https://github.com/Kaarti22/Fusion_System_Administrator"
     },
     "description": "Developed features for the system admin efficiently add new users, bulk import students using CSV files and reset user passwords efficiently. Also, devised a role-based access control for creating, managing, and assigning roles, with customizable module permissions.",
-    "languageIcons": ["/django_icon.png", "react_icon.png", "postgresql_icon.png"]
+    "languageIcons": ["/django_icon.png", "/react_icon.png", "/postgresql_icon.png"]
   },
   {
     "thumbnail": "/food_ordering_website_template.png",
@@ -27,7 +27,7 @@
       "url": "https://github.com/Kaarti22/FoodByte"
     },
     "description": "Constructed a 3-tier online food ordering platform enabling users place orders, restaurant owners to manage menus, and admins to oversee operations, integrated Google OAuth for authentication and Stripe for payment processing.",
-    "languageIcons": ["/node.js_icon.png", "mongodb_icon.png", "tailwind-css.svg"]
+    "languageIcons": ["/node.js_icon.png", "/mongodb_icon.png", "/tailwind-css.svg"]
   },
   {
     "thumbnail": "/neural_network.png",
