@@ -1,5 +1,15 @@
 [
   {
+    "thumbnail": "/imdb_sentiment_analysis.png",
+    "title": "IMDB Reviews Sentiment Analysis",
+    "link": {
+      "label": "Website",
+      "url": "https://imdb-reviews-sentiment-analysis-nine.vercel.app/"
+    },
+    "description": "An AI-powered web application that performs sentiment analysis on IMDB movie reviews. This project utilizes LSTM (Long Short-Term Memory) models for text classification, with a FastAPI backend for predictions and a Next.js frontend for an interactive user interface.",
+    "languageIcons": ["/python_icon.png", "react_icon.png", "tailwind-css.svg"]
+  },
+  {
     "thumbnail": "/admin_panel_template.png",
     "title": "Fusion - An Intranet Institute's ERP Portal",
     "link": {
@@ -8,16 +18,6 @@
     },
     "description": "Developed features for the system admin efficiently add new users, bulk import students using CSV files and reset user passwords efficiently. Also, devised a role-based access control for creating, managing, and assigning roles, with customizable module permissions.",
     "languageIcons": ["/django_icon.png", "react_icon.png", "postgresql_icon.png"]
-  },
-  {
-    "thumbnail": "/ai_mock_interviewer_template.png",
-    "title": "AI Mock Interviewer - Practice for your upcoming interviews",
-    "link": {
-      "label": "Code",
-      "url": "https://github.com/Kaarti22/AI-Mock-Interviewer"
-    },
-    "description": "Designed and built a full-stack AI-driven tool that generates 10 interview questions using Gemini AI and analyzes user responses, incorporated speech-to-text functionality and video recording to simulate realistic interview environments.",
-    "languageIcons": ["/node.js_icon.png", "postgresql_icon.png"]
   },
   {
     "thumbnail": "/food_ordering_website_template.png",
