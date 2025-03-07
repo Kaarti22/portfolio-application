@@ -12,8 +12,8 @@ const Sections = () => {
       <Hero />
       <Skills />
       <Projects />
-      <Testimonials />
-      <Experiences />
+      {/* <Testimonials />
+      <Experiences /> */}
       <Contact />
     </main>
   );

@@ -20,7 +20,7 @@ const Contact = () => {
             <img src="/mail_icon.svg" alt="Mail icon" />
           </a>
           <div className="flex flex-row gap-1">
-            <a href="https://www.github.com" className="contact-button">
+            <a href="https://github.com/Kaarti22" className="contact-button">
               <Image
                 src={"/github_logo_dark.svg"}
                 alt="Github icon"
@@ -36,33 +36,17 @@ const Contact = () => {
                 className="dark:hidden"
               />
             </a>
-            <a href="https://www.x.com" className="contact-button">
+            <a href="https://www.linkedin.com/in/kartikeya-mondi-1b429325a/" className="contact-button">
               <Image
-                src={"/twitter_icon_dark.svg"}
-                alt="Twitter icon"
+                src={"/linkedin_icon_dark.svg"}
+                alt="LinkedIn icon"
                 height={14}
                 width={17}
                 className="hidden dark:block"
               />
               <Image
-                src={"/twitter_icon.svg"}
-                alt="Twitter icon"
-                height={14}
-                width={17}
-                className="dark:hidden"
-              />
-            </a>
-            <a href="https://www.stackoverflow.com" className="contact-button">
-              <Image
-                src={"/stackoverflow_icon_dark.svg"}
-                alt="Stackoverflow icon"
-                height={14}
-                width={17}
-                className="hidden dark:block"
-              />
-              <Image
-                src={"/stackoverflow_icon.svg"}
-                alt="Stackoverflow icon"
+                src={"/linkedin_icon.svg"}
+                alt="LinkedIn icon"
                 height={14}
                 width={17}
                 className="dark:hidden"
@@ -71,7 +55,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      <small>Copyright &copy; John Doe 2024</small>
+      <small>Copyright &copy; Mondi Venkata Kartikeya 2025</small>
     </section>
   );
 };

@@ -21,7 +21,7 @@ const Navbar = () => {
     }
   }, []);
 
-  const navItems = ["home", "skills", "projects", "testimonials", "experience", "contact"];
+  const navItems = ["home", "skills", "projects", "contact"];
 
   return (
     <div className="fixed top-12 right-6 mx-auto flex flex-col gap-2.5 items-end z-50 md:right-auto md:left-1/2 md:-translate-x-1/2">
