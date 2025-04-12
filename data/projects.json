@@ -1,13 +1,13 @@
 [
   {
-    "thumbnail": "/imdb_sentiment_analysis.png",
-    "title": "IMDB Reviews Sentiment Analysis",
+    "thumbnail": "/deepfake.png",
+    "title": "FaceGuard - Deepfake Image/Video Detection",
     "link": {
-      "label": "Website",
-      "url": "https://imdb-reviews-sentiment-analysis-nine.vercel.app/"
+      "label": "Code",
+      "url": "https://gitlab.com/kaartimondi/faceguard"
     },
-    "description": "An AI-powered web application that performs sentiment analysis on IMDB movie reviews. This project utilizes LSTM (Long Short-Term Memory) models for text classification, with a FastAPI backend for predictions and a Next.js frontend for an interactive user interface.",
-    "languageIcons": ["/python_icon.png", "/react_icon.png", "/tailwind-css.svg"]
+    "description": "Faceguard is  deepfake human face detection extension developed using transfer learning on MobileNetV2 model, used in binary classification (real vs AI-generated) of facial content.",
+    "languageIcons": ["/python_icon.png"]
   },
   {
     "thumbnail": "/admin_panel_template.png",
@@ -30,13 +30,13 @@
     "languageIcons": ["/node.js_icon.png", "/mongodb_icon.png", "/tailwind-css.svg"]
   },
   {
-    "thumbnail": "/neural_network.png",
-    "title": "Handwritten Digit Recognition using Neural Network",
+    "thumbnail": "/social_media_sentiment_analysis.png",
+    "title": "Social Media Posts Sentiment Analysis",
     "link": {
-      "label": "Website",
-      "url": "https://kaarti22-mnist-handwritten-digit-classification-app-qygxii.streamlit.app/"
+      "label": "Code",
+      "url": "https://github.com/Kaarti22/posts-sentiment-analysis"
     },
-    "description": "Handwritten digit recognition using MNIST dataset is a major project made with the help of Neural Network. It basically detects the scanned images of handwritten digits. We have taken this a step further where our handwritten digit recognition system not only detects scanned images of handwritten digits but also allows writing digits on the screen with the help of an integrated GUI for recognition.",
+    "description": "This project leverages pretrained AI models to perform sentiment analysis on social media posts containing both text and images. It uses Twitter-RoBERTa for textual sentiment and CLIP for image-based sentiment, with a custom label mapping strategy. The outputs are intelligently combined to generate an overall sentiment score — Positive, Neutral, or Negative — with high accuracy and zero training overhead.",
     "languageIcons": ["/python_icon.png"]
   }
 ]
