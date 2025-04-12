@@ -27,7 +27,7 @@
       "url": "https://github.com/Kaarti22/FoodByte"
     },
     "description": "Constructed a 3-tier online food ordering platform enabling users place orders, restaurant owners to manage menus, and admins to oversee operations, integrated Google OAuth for authentication and Stripe for payment processing.",
-    "languageIcons": ["/node.js_icon.png", "/mongodb_icon.png", "/tailwind-css.svg"]
+    "languageIcons": ["/react_icon.png", "/node.js_icon.png", "/mongodb_icon.png", "/tailwind-css.svg"]
   },
   {
     "thumbnail": "/social_media_sentiment_analysis.png",
